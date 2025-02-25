@@ -1,0 +1,3017 @@
+[
+  {
+    "id": 1,
+    "name": "Onion Blend",
+    "ingredients": [
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "ingredientId": 56,
+        "name": "Ice Cream",
+        "qty": 4
+      },
+      {
+        "ingredientId": 7,
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 2
+      }
+    ],
+    "description": "grill Onion. mix well Ice Cream. steam Lemon. bake Baguette. serve and enjoy!"
+  },
+  {
+    "id": 2,
+    "name": "Ice Cream Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 56,
+        "name": "Ice Cream",
+        "qty": 1
+      },
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 1
+      },
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 3
+      },
+      {
+        "ingredientId": 5,
+        "name": "Watermelon",
+        "qty": 5
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 1
+      }
+    ],
+    "description": "mix well Ice Cream. steam Bread. steam Hot Dog. grill Watermelon. fry Croissant. serve and enjoy!"
+  },
+  {
+    "id": 3,
+    "name": "Broccoli Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 5
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 3
+      },
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 4
+      }
+    ],
+    "description": "boil Broccoli. roast Banana. fry Bread. serve and enjoy!"
+  },
+  {
+    "id": 4,
+    "name": "Hot Pepper Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 21,
+        "name": "Hot Pepper",
+        "qty": 1
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 1
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 1
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 5
+      }
+    ],
+    "description": "roast Hot Pepper. mix well Stew. steam Cucumber. roast Cake. serve and enjoy!"
+  },
+  {
+    "id": 5,
+    "name": "Curry Rice Mix",
+    "ingredients": [
+      {
+        "ingredientId": 50,
+        "name": "Curry Rice",
+        "qty": 4
+      },
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 1
+      },
+      {
+        "ingredientId": 20,
+        "name": "Corn",
+        "qty": 2
+      },
+      {
+        "ingredientId": 11,
+        "name": "Peach",
+        "qty": 2
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 4
+      }
+    ],
+    "description": "fry Curry Rice. season Shrimp. fry Corn. grill Peach. boil Cake. serve and enjoy!"
+  },
+  {
+    "id": 6,
+    "name": "Pineapple Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 12,
+        "name": "Pineapple",
+        "qty": 5
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 2
+      },
+      {
+        "ingredientId": 59,
+        "name": "Cookie",
+        "qty": 5
+      }
+    ],
+    "description": "chop Pineapple. season Peanuts. boil Cookie. serve and enjoy!"
+  },
+  {
+    "id": 7,
+    "name": "Bread Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 1
+      },
+      {
+        "ingredientId": 12,
+        "name": "Pineapple",
+        "qty": 1
+      },
+      {
+        "ingredientId": 55,
+        "name": "Oyster",
+        "qty": 3
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 2
+      },
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 5
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 2
+      }
+    ],
+    "description": "bake Bread. season Pineapple. boil Oyster. boil Garlic. mix well Shrimp. steam Stew. serve and enjoy!"
+  },
+  {
+    "id": 8,
+    "name": "Salad Treat",
+    "ingredients": [
+      {
+        "ingredientId": 45,
+        "name": "Salad",
+        "qty": 3
+      },
+      {
+        "ingredientId": 46,
+        "name": "Fried Egg",
+        "qty": 4
+      },
+      {
+        "ingredientId": 34,
+        "name": "Pancakes",
+        "qty": 2
+      }
+    ],
+    "description": "roast Salad. season Fried Egg. fry Pancakes. serve and enjoy!"
+  },
+  {
+    "id": 9,
+    "name": "Shrimp Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 3
+      },
+      {
+        "ingredientId": 60,
+        "name": "Chocolate Bar",
+        "qty": 4
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 4
+      }
+    ],
+    "description": "chop Shrimp. mix well Chocolate Bar. boil Cake. serve and enjoy!"
+  },
+  {
+    "id": 10,
+    "name": "Cheese Special",
+    "ingredients": [
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 1
+      },
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 3
+      },
+      {
+        "ingredientId": 56,
+        "name": "Ice Cream",
+        "qty": 1
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 3
+      },
+      {
+        "ingredientId": 1,
+        "name": "Apple",
+        "qty": 4
+      },
+      {
+        "ingredientId": 5,
+        "name": "Watermelon",
+        "qty": 1
+      }
+    ],
+    "description": "boil Cheese. grill Shrimp. boil Ice Cream. steam Cake. mix well Apple. grill Watermelon. serve and enjoy!"
+  },
+  {
+    "id": 11,
+    "name": "Garlic Medley",
+    "ingredients": [
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 3
+      },
+      {
+        "ingredientId": 7,
+        "name": "Lemon",
+        "qty": 3
+      },
+      {
+        "ingredientId": 8,
+        "name": "Strawberry",
+        "qty": 3
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 1
+      },
+      {
+        "ingredientId": 36,
+        "name": "Meat",
+        "qty": 1
+      }
+    ],
+    "description": "chop Garlic. steam Lemon. steam Strawberry. grill Baguette. chop Meat. serve and enjoy!"
+  },
+  {
+    "id": 12,
+    "name": "Strawberry Treat",
+    "ingredients": [
+      {
+        "ingredientId": 8,
+        "name": "Strawberry",
+        "qty": 5
+      },
+      {
+        "ingredientId": 52,
+        "name": "Spaghetti",
+        "qty": 3
+      },
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 5
+      }
+    ],
+    "description": "season Strawberry. season Spaghetti. chop Broccoli. serve and enjoy!"
+  },
+  {
+    "id": 13,
+    "name": "Pizza Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 40,
+        "name": "Pizza",
+        "qty": 1
+      },
+      {
+        "ingredientId": 46,
+        "name": "Fried Egg",
+        "qty": 4
+      },
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 1
+      },
+      {
+        "ingredientId": 45,
+        "name": "Salad",
+        "qty": 4
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 2
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 2
+      }
+    ],
+    "description": "roast Pizza. grill Fried Egg. bake Noodles. boil Salad. mix well Croissant. mix well Baguette. serve and enjoy!"
+  },
+  {
+    "id": 14,
+    "name": "Garlic Medley",
+    "ingredients": [
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 5
+      },
+      {
+        "ingredientId": 36,
+        "name": "Meat",
+        "qty": 1
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 2
+      },
+      {
+        "ingredientId": 52,
+        "name": "Spaghetti",
+        "qty": 4
+      }
+    ],
+    "description": "fry Garlic. season Meat. mix well Baguette. fry Spaghetti. serve and enjoy!"
+  },
+  {
+    "id": 15,
+    "name": "Cheese Treat",
+    "ingredients": [
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 1
+      },
+      {
+        "ingredientId": 14,
+        "name": "Coconut",
+        "qty": 3
+      },
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 5
+      }
+    ],
+    "description": "mix well Cheese. grill Coconut. grill Sandwich. serve and enjoy!"
+  },
+  {
+    "id": 16,
+    "name": "Hot Dog Medley",
+    "ingredients": [
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 5
+      },
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 3
+      },
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 1
+      },
+      {
+        "ingredientId": 45,
+        "name": "Salad",
+        "qty": 3
+      },
+      {
+        "ingredientId": 15,
+        "name": "Kiwi",
+        "qty": 3
+      },
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 5
+      }
+    ],
+    "description": "fry Hot Dog. steam Hamburger. fry Shrimp. bake Salad. steam Kiwi. season Mushroom. serve and enjoy!"
+  },
+  {
+    "id": 17,
+    "name": "Grapes Mix",
+    "ingredients": [
+      {
+        "ingredientId": 4,
+        "name": "Grapes",
+        "qty": 3
+      },
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 3
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 1
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 5
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 4
+      }
+    ],
+    "description": "boil Grapes. steam Cheese. steam Croissant. chop Baguette. bake Stew. serve and enjoy!"
+  },
+  {
+    "id": 18,
+    "name": "Bagel Medley",
+    "ingredients": [
+      {
+        "ingredientId": 33,
+        "name": "Bagel",
+        "qty": 2
+      },
+      {
+        "ingredientId": 28,
+        "name": "Chestnut",
+        "qty": 1
+      },
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 4
+      }
+    ],
+    "description": "season Bagel. mix well Chestnut. season Broccoli. serve and enjoy!"
+  },
+  {
+    "id": 19,
+    "name": "Rice Ball Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 5
+      },
+      {
+        "ingredientId": 16,
+        "name": "Tomato",
+        "qty": 5
+      },
+      {
+        "ingredientId": 4,
+        "name": "Grapes",
+        "qty": 3
+      }
+    ],
+    "description": "boil Rice Ball. bake Tomato. season Grapes. serve and enjoy!"
+  },
+  {
+    "id": 20,
+    "name": "Cucumber Delight",
+    "ingredients": [
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 3
+      },
+      {
+        "ingredientId": 21,
+        "name": "Hot Pepper",
+        "qty": 1
+      },
+      {
+        "ingredientId": 33,
+        "name": "Bagel",
+        "qty": 1
+      }
+    ],
+    "description": "chop Cucumber. boil Hot Pepper. fry Bagel. serve and enjoy!"
+  },
+  {
+    "id": 21,
+    "name": "Pineapple Special",
+    "ingredients": [
+      {
+        "ingredientId": 12,
+        "name": "Pineapple",
+        "qty": 1
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 4
+      },
+      {
+        "ingredientId": 21,
+        "name": "Hot Pepper",
+        "qty": 1
+      },
+      {
+        "ingredientId": 14,
+        "name": "Coconut",
+        "qty": 3
+      },
+      {
+        "ingredientId": 10,
+        "name": "Cherry",
+        "qty": 5
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 2
+      }
+    ],
+    "description": "grill Pineapple. steam Cake. steam Hot Pepper. boil Coconut. chop Cherry. boil Baguette. serve and enjoy!"
+  },
+  {
+    "id": 22,
+    "name": "Hamburger Mix",
+    "ingredients": [
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 1
+      },
+      {
+        "ingredientId": 59,
+        "name": "Cookie",
+        "qty": 1
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 1
+      },
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 2
+      }
+    ],
+    "description": "fry Hamburger. roast Cookie. bake Peanuts. bake Sandwich. serve and enjoy!"
+  },
+  {
+    "id": 23,
+    "name": "Tomato Special",
+    "ingredients": [
+      {
+        "ingredientId": 16,
+        "name": "Tomato",
+        "qty": 5
+      },
+      {
+        "ingredientId": 40,
+        "name": "Pizza",
+        "qty": 2
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 2
+      },
+      {
+        "ingredientId": 28,
+        "name": "Chestnut",
+        "qty": 5
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 2
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 2
+      }
+    ],
+    "description": "season Tomato. chop Pizza. bake Croissant. boil Chestnut. boil Cucumber. steam Banana. serve and enjoy!"
+  },
+  {
+    "id": 24,
+    "name": "Mushroom Feast",
+    "ingredients": [
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 3
+      },
+      {
+        "ingredientId": 11,
+        "name": "Peach",
+        "qty": 3
+      },
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 3
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 1
+      },
+      {
+        "ingredientId": 16,
+        "name": "Tomato",
+        "qty": 1
+      }
+    ],
+    "description": "bake Mushroom. boil Peach. boil Hot Dog. season Peanuts. mix well Tomato. serve and enjoy!"
+  },
+  {
+    "id": 25,
+    "name": "Hot Pepper Delight",
+    "ingredients": [
+      {
+        "ingredientId": 21,
+        "name": "Hot Pepper",
+        "qty": 1
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 3
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 4
+      },
+      {
+        "ingredientId": 50,
+        "name": "Curry Rice",
+        "qty": 1
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 1
+      },
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 4
+      }
+    ],
+    "description": "roast Hot Pepper. season Garlic. chop Rice Ball. steam Curry Rice. grill Bowl of Rice. bake Noodles. serve and enjoy!"
+  },
+  {
+    "id": 26,
+    "name": "Mushroom Feast",
+    "ingredients": [
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 5
+      },
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 5
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 5
+      },
+      {
+        "ingredientId": 6,
+        "name": "Orange",
+        "qty": 5
+      },
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 1
+      }
+    ],
+    "description": "grill Mushroom. boil Eggplant. mix well Bowl of Rice. mix well Orange. boil Blueberry. serve and enjoy!"
+  },
+  {
+    "id": 27,
+    "name": "Ice Cream Medley",
+    "ingredients": [
+      {
+        "ingredientId": 56,
+        "name": "Ice Cream",
+        "qty": 5
+      },
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 1
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 1
+      }
+    ],
+    "description": "bake Ice Cream. fry Blueberry. bake Rice Ball. serve and enjoy!"
+  },
+  {
+    "id": 28,
+    "name": "Avocado Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 17,
+        "name": "Avocado",
+        "qty": 2
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 5
+      },
+      {
+        "ingredientId": 6,
+        "name": "Orange",
+        "qty": 3
+      },
+      {
+        "ingredientId": 2,
+        "name": "Green Apple",
+        "qty": 3
+      }
+    ],
+    "description": "fry Avocado. mix well Cucumber. boil Orange. fry Green Apple. serve and enjoy!"
+  },
+  {
+    "id": 29,
+    "name": "Bacon Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 38,
+        "name": "Bacon",
+        "qty": 4
+      },
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 3
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 4
+      }
+    ],
+    "description": "chop Bacon. roast Blueberry. grill Banana. serve and enjoy!"
+  },
+  {
+    "id": 30,
+    "name": "Shrimp Blend",
+    "ingredients": [
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 4
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 5
+      },
+      {
+        "ingredientId": 53,
+        "name": "Sushi",
+        "qty": 2
+      },
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 2
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 5
+      }
+    ],
+    "description": "steam Shrimp. boil Rice Ball. bake Sushi. mix well Sandwich. grill Peanuts. serve and enjoy!"
+  },
+  {
+    "id": 31,
+    "name": "Pancakes Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 34,
+        "name": "Pancakes",
+        "qty": 3
+      },
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 4
+      },
+      {
+        "ingredientId": 13,
+        "name": "Mango",
+        "qty": 4
+      }
+    ],
+    "description": "grill Pancakes. boil Onion. roast Mango. serve and enjoy!"
+  },
+  {
+    "id": 32,
+    "name": "Shrimp Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 3
+      },
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 1
+      },
+      {
+        "ingredientId": 36,
+        "name": "Meat",
+        "qty": 2
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 1
+      }
+    ],
+    "description": "steam Shrimp. chop Eggplant. mix well Meat. season Peanuts. serve and enjoy!"
+  },
+  {
+    "id": 33,
+    "name": "Hot Dog Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 2
+      },
+      {
+        "ingredientId": 21,
+        "name": "Hot Pepper",
+        "qty": 1
+      },
+      {
+        "ingredientId": 28,
+        "name": "Chestnut",
+        "qty": 4
+      },
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 4
+      }
+    ],
+    "description": "season Hot Dog. boil Hot Pepper. steam Chestnut. season Onion. serve and enjoy!"
+  },
+  {
+    "id": 34,
+    "name": "Blueberry Feast",
+    "ingredients": [
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 5
+      },
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 5
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 4
+      },
+      {
+        "ingredientId": 17,
+        "name": "Avocado",
+        "qty": 5
+      },
+      {
+        "ingredientId": 20,
+        "name": "Corn",
+        "qty": 3
+      },
+      {
+        "ingredientId": 15,
+        "name": "Kiwi",
+        "qty": 1
+      }
+    ],
+    "description": "mix well Blueberry. roast Noodles. fry Rice Ball. grill Avocado. bake Corn. grill Kiwi. serve and enjoy!"
+  },
+  {
+    "id": 35,
+    "name": "Curry Rice Delight",
+    "ingredients": [
+      {
+        "ingredientId": 50,
+        "name": "Curry Rice",
+        "qty": 5
+      },
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 5
+      },
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 4
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 1
+      },
+      {
+        "ingredientId": 45,
+        "name": "Salad",
+        "qty": 1
+      },
+      {
+        "ingredientId": 36,
+        "name": "Meat",
+        "qty": 3
+      }
+    ],
+    "description": "boil Curry Rice. chop Sandwich. grill Cheese. boil Cake. bake Salad. steam Meat. serve and enjoy!"
+  },
+  {
+    "id": 36,
+    "name": "Mushroom Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 1
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 1
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 4
+      }
+    ],
+    "description": "season Mushroom. season Cake. chop Cucumber. serve and enjoy!"
+  },
+  {
+    "id": 37,
+    "name": "Mushroom Special",
+    "ingredients": [
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 1
+      },
+      {
+        "ingredientId": 55,
+        "name": "Oyster",
+        "qty": 4
+      },
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 1
+      },
+      {
+        "ingredientId": 14,
+        "name": "Coconut",
+        "qty": 5
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 5
+      },
+      {
+        "ingredientId": 17,
+        "name": "Avocado",
+        "qty": 2
+      }
+    ],
+    "description": "steam Mushroom. season Oyster. bake Blueberry. fry Coconut. chop Garlic. season Avocado. serve and enjoy!"
+  },
+  {
+    "id": 38,
+    "name": "Lemon Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 7,
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 5
+      },
+      {
+        "ingredientId": 16,
+        "name": "Tomato",
+        "qty": 2
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 2
+      }
+    ],
+    "description": "steam Lemon. grill Rice Ball. mix well Tomato. steam Banana. serve and enjoy!"
+  },
+  {
+    "id": 39,
+    "name": "Croissant Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 1
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 4
+      },
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 4
+      }
+    ],
+    "description": "mix well Croissant. grill Peanuts. fry Bread. serve and enjoy!"
+  },
+  {
+    "id": 40,
+    "name": "Broccoli Medley",
+    "ingredients": [
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 2
+      },
+      {
+        "ingredientId": 46,
+        "name": "Fried Egg",
+        "qty": 5
+      },
+      {
+        "ingredientId": 19,
+        "name": "Carrot",
+        "qty": 4
+      },
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 1
+      }
+    ],
+    "description": "mix well Broccoli. bake Fried Egg. chop Carrot. steam Eggplant. serve and enjoy!"
+  },
+  {
+    "id": 41,
+    "name": "Poultry Leg Delight",
+    "ingredients": [
+      {
+        "ingredientId": 37,
+        "name": "Poultry Leg",
+        "qty": 1
+      },
+      {
+        "ingredientId": 15,
+        "name": "Kiwi",
+        "qty": 3
+      },
+      {
+        "ingredientId": 34,
+        "name": "Pancakes",
+        "qty": 2
+      },
+      {
+        "ingredientId": 5,
+        "name": "Watermelon",
+        "qty": 4
+      },
+      {
+        "ingredientId": 53,
+        "name": "Sushi",
+        "qty": 3
+      }
+    ],
+    "description": "season Poultry Leg. fry Kiwi. grill Pancakes. season Watermelon. grill Sushi. serve and enjoy!"
+  },
+  {
+    "id": 42,
+    "name": "Baguette Special",
+    "ingredients": [
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 3
+      },
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 1
+      },
+      {
+        "ingredientId": 12,
+        "name": "Pineapple",
+        "qty": 5
+      },
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 1
+      },
+      {
+        "ingredientId": 43,
+        "name": "Burrito",
+        "qty": 3
+      }
+    ],
+    "description": "chop Baguette. fry Mushroom. boil Pineapple. boil Bread. chop Burrito. serve and enjoy!"
+  },
+  {
+    "id": 43,
+    "name": "Hot Dog Medley",
+    "ingredients": [
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 2
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 5
+      },
+      {
+        "ingredientId": 34,
+        "name": "Pancakes",
+        "qty": 1
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 3
+      },
+      {
+        "ingredientId": 58,
+        "name": "Donut",
+        "qty": 1
+      }
+    ],
+    "description": "chop Hot Dog. bake Banana. chop Pancakes. roast Baguette. steam Donut. serve and enjoy!"
+  },
+  {
+    "id": 44,
+    "name": "Corn Delight",
+    "ingredients": [
+      {
+        "ingredientId": 20,
+        "name": "Corn",
+        "qty": 3
+      },
+      {
+        "ingredientId": 2,
+        "name": "Green Apple",
+        "qty": 3
+      },
+      {
+        "ingredientId": 10,
+        "name": "Cherry",
+        "qty": 2
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 3
+      }
+    ],
+    "description": "chop Corn. mix well Green Apple. boil Cherry. fry Croissant. serve and enjoy!"
+  },
+  {
+    "id": 45,
+    "name": "Hot Dog Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 2
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 4
+      },
+      {
+        "ingredientId": 58,
+        "name": "Donut",
+        "qty": 4
+      },
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 3
+      }
+    ],
+    "description": "season Hot Dog. season Peanuts. fry Donut. steam Sandwich. serve and enjoy!"
+  },
+  {
+    "id": 46,
+    "name": "Pineapple Mix",
+    "ingredients": [
+      {
+        "ingredientId": 12,
+        "name": "Pineapple",
+        "qty": 3
+      },
+      {
+        "ingredientId": 59,
+        "name": "Cookie",
+        "qty": 2
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 2
+      },
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "ingredientId": 45,
+        "name": "Salad",
+        "qty": 5
+      }
+    ],
+    "description": "roast Pineapple. grill Cookie. season Bowl of Rice. boil Onion. fry Salad. serve and enjoy!"
+  },
+  {
+    "id": 47,
+    "name": "Eggplant Blend",
+    "ingredients": [
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 4
+      },
+      {
+        "ingredientId": 53,
+        "name": "Sushi",
+        "qty": 4
+      },
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 2
+      },
+      {
+        "ingredientId": 55,
+        "name": "Oyster",
+        "qty": 1
+      },
+      {
+        "ingredientId": 13,
+        "name": "Mango",
+        "qty": 4
+      }
+    ],
+    "description": "grill Eggplant. boil Sushi. bake Broccoli. chop Oyster. fry Mango. serve and enjoy!"
+  },
+  {
+    "id": 48,
+    "name": "Bowl of Rice Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 5
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 1
+      },
+      {
+        "ingredientId": 4,
+        "name": "Grapes",
+        "qty": 5
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 2
+      },
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 2
+      },
+      {
+        "ingredientId": 20,
+        "name": "Corn",
+        "qty": 1
+      }
+    ],
+    "description": "fry Bowl of Rice. mix well Garlic. grill Grapes. roast Peanuts. season Noodles. grill Corn. serve and enjoy!"
+  },
+  {
+    "id": 49,
+    "name": "Orange Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 6,
+        "name": "Orange",
+        "qty": 2
+      },
+      {
+        "ingredientId": 42,
+        "name": "Taco",
+        "qty": 4
+      },
+      {
+        "ingredientId": 50,
+        "name": "Curry Rice",
+        "qty": 4
+      },
+      {
+        "ingredientId": 59,
+        "name": "Cookie",
+        "qty": 5
+      }
+    ],
+    "description": "chop Orange. roast Taco. steam Curry Rice. bake Cookie. serve and enjoy!"
+  },
+  {
+    "id": 50,
+    "name": "Hot Pepper Feast",
+    "ingredients": [
+      {
+        "ingredientId": 21,
+        "name": "Hot Pepper",
+        "qty": 2
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 1
+      },
+      {
+        "ingredientId": 15,
+        "name": "Kiwi",
+        "qty": 4
+      }
+    ],
+    "description": "grill Hot Pepper. grill Bowl of Rice. grill Kiwi. serve and enjoy!"
+  },
+  {
+    "id": 51,
+    "name": "Noodles Special",
+    "ingredients": [
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 1
+      },
+      {
+        "ingredientId": 59,
+        "name": "Cookie",
+        "qty": 4
+      },
+      {
+        "ingredientId": 42,
+        "name": "Taco",
+        "qty": 1
+      },
+      {
+        "ingredientId": 53,
+        "name": "Sushi",
+        "qty": 2
+      }
+    ],
+    "description": "mix well Noodles. grill Cookie. fry Taco. chop Sushi. serve and enjoy!"
+  },
+  {
+    "id": 52,
+    "name": "Apple Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "name": "Apple",
+        "qty": 1
+      },
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 5
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 3
+      },
+      {
+        "ingredientId": 58,
+        "name": "Donut",
+        "qty": 4
+      },
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 3
+      }
+    ],
+    "description": "mix well Apple. boil Hot Dog. bake Bowl of Rice. chop Donut. steam Eggplant. serve and enjoy!"
+  },
+  {
+    "id": 53,
+    "name": "Ice Cream Mix",
+    "ingredients": [
+      {
+        "ingredientId": 56,
+        "name": "Ice Cream",
+        "qty": 3
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 5
+      },
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 1
+      },
+      {
+        "ingredientId": 53,
+        "name": "Sushi",
+        "qty": 5
+      },
+      {
+        "ingredientId": 10,
+        "name": "Cherry",
+        "qty": 5
+      }
+    ],
+    "description": "boil Ice Cream. roast Peanuts. fry Hot Dog. grill Sushi. mix well Cherry. serve and enjoy!"
+  },
+  {
+    "id": 54,
+    "name": "Cheese Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 3
+      },
+      {
+        "ingredientId": 17,
+        "name": "Avocado",
+        "qty": 4
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 2
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 4
+      },
+      {
+        "ingredientId": 4,
+        "name": "Grapes",
+        "qty": 1
+      },
+      {
+        "ingredientId": 43,
+        "name": "Burrito",
+        "qty": 5
+      }
+    ],
+    "description": "roast Cheese. chop Avocado. bake Stew. fry Cucumber. chop Grapes. grill Burrito. serve and enjoy!"
+  },
+  {
+    "id": 55,
+    "name": "Pretzel Blend",
+    "ingredients": [
+      {
+        "ingredientId": 32,
+        "name": "Pretzel",
+        "qty": 3
+      },
+      {
+        "ingredientId": 46,
+        "name": "Fried Egg",
+        "qty": 1
+      },
+      {
+        "ingredientId": 2,
+        "name": "Green Apple",
+        "qty": 4
+      },
+      {
+        "ingredientId": 53,
+        "name": "Sushi",
+        "qty": 2
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 5
+      },
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 1
+      }
+    ],
+    "description": "grill Pretzel. boil Fried Egg. roast Green Apple. mix well Sushi. grill Banana. season Cheese. serve and enjoy!"
+  },
+  {
+    "id": 56,
+    "name": "Apple Special",
+    "ingredients": [
+      {
+        "ingredientId": 1,
+        "name": "Apple",
+        "qty": 4
+      },
+      {
+        "ingredientId": 50,
+        "name": "Curry Rice",
+        "qty": 3
+      },
+      {
+        "ingredientId": 13,
+        "name": "Mango",
+        "qty": 2
+      },
+      {
+        "ingredientId": 33,
+        "name": "Bagel",
+        "qty": 2
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 2
+      },
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 4
+      }
+    ],
+    "description": "grill Apple. fry Curry Rice. grill Mango. bake Bagel. fry Rice Ball. grill Eggplant. serve and enjoy!"
+  },
+  {
+    "id": 57,
+    "name": "Oyster Medley",
+    "ingredients": [
+      {
+        "ingredientId": 55,
+        "name": "Oyster",
+        "qty": 1
+      },
+      {
+        "ingredientId": 1,
+        "name": "Apple",
+        "qty": 3
+      },
+      {
+        "ingredientId": 6,
+        "name": "Orange",
+        "qty": 2
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 3
+      }
+    ],
+    "description": "fry Oyster. steam Apple. boil Orange. season Rice Ball. serve and enjoy!"
+  },
+  {
+    "id": 58,
+    "name": "Shrimp Delight",
+    "ingredients": [
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 5
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 5
+      },
+      {
+        "ingredientId": 14,
+        "name": "Coconut",
+        "qty": 1
+      },
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 3
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 5
+      }
+    ],
+    "description": "chop Shrimp. season Stew. steam Coconut. mix well Hamburger. boil Cucumber. serve and enjoy!"
+  },
+  {
+    "id": 59,
+    "name": "Cookie Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 59,
+        "name": "Cookie",
+        "qty": 1
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 1
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 1
+      },
+      {
+        "ingredientId": 13,
+        "name": "Mango",
+        "qty": 1
+      }
+    ],
+    "description": "mix well Cookie. fry Baguette. season Garlic. bake Mango. serve and enjoy!"
+  },
+  {
+    "id": 60,
+    "name": "Cucumber Mix",
+    "ingredients": [
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 5
+      },
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 5
+      },
+      {
+        "ingredientId": 10,
+        "name": "Cherry",
+        "qty": 5
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 4
+      },
+      {
+        "ingredientId": 42,
+        "name": "Taco",
+        "qty": 1
+      },
+      {
+        "ingredientId": 58,
+        "name": "Donut",
+        "qty": 5
+      }
+    ],
+    "description": "roast Cucumber. grill Broccoli. bake Cherry. boil Stew. boil Taco. roast Donut. serve and enjoy!"
+  },
+  {
+    "id": 61,
+    "name": "Hot Dog Treat",
+    "ingredients": [
+      {
+        "ingredientId": 41,
+        "name": "Hot Dog",
+        "qty": 1
+      },
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 3
+      },
+      {
+        "ingredientId": 19,
+        "name": "Carrot",
+        "qty": 4
+      },
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 1
+      },
+      {
+        "ingredientId": 11,
+        "name": "Peach",
+        "qty": 1
+      }
+    ],
+    "description": "roast Hot Dog. fry Broccoli. roast Carrot. fry Noodles. fry Peach. serve and enjoy!"
+  },
+  {
+    "id": 62,
+    "name": "Banana Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 3
+      },
+      {
+        "ingredientId": 14,
+        "name": "Coconut",
+        "qty": 1
+      },
+      {
+        "ingredientId": 4,
+        "name": "Grapes",
+        "qty": 2
+      }
+    ],
+    "description": "steam Banana. bake Coconut. mix well Grapes. serve and enjoy!"
+  },
+  {
+    "id": 63,
+    "name": "Chestnut Medley",
+    "ingredients": [
+      {
+        "ingredientId": 28,
+        "name": "Chestnut",
+        "qty": 1
+      },
+      {
+        "ingredientId": 36,
+        "name": "Meat",
+        "qty": 3
+      },
+      {
+        "ingredientId": 5,
+        "name": "Watermelon",
+        "qty": 2
+      },
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 5
+      },
+      {
+        "ingredientId": 53,
+        "name": "Sushi",
+        "qty": 3
+      },
+      {
+        "ingredientId": 33,
+        "name": "Bagel",
+        "qty": 1
+      }
+    ],
+    "description": "grill Chestnut. mix well Meat. mix well Watermelon. roast Hamburger. boil Sushi. season Bagel. serve and enjoy!"
+  },
+  {
+    "id": 64,
+    "name": "Watermelon Special",
+    "ingredients": [
+      {
+        "ingredientId": 5,
+        "name": "Watermelon",
+        "qty": 2
+      },
+      {
+        "ingredientId": 16,
+        "name": "Tomato",
+        "qty": 2
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 3
+      },
+      {
+        "ingredientId": 40,
+        "name": "Pizza",
+        "qty": 1
+      },
+      {
+        "ingredientId": 60,
+        "name": "Chocolate Bar",
+        "qty": 5
+      }
+    ],
+    "description": "season Watermelon. boil Tomato. steam Baguette. chop Pizza. steam Chocolate Bar. serve and enjoy!"
+  },
+  {
+    "id": 65,
+    "name": "Ice Cream Blend",
+    "ingredients": [
+      {
+        "ingredientId": 56,
+        "name": "Ice Cream",
+        "qty": 5
+      },
+      {
+        "ingredientId": 7,
+        "name": "Lemon",
+        "qty": 4
+      },
+      {
+        "ingredientId": 6,
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "ingredientId": 42,
+        "name": "Taco",
+        "qty": 5
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 2
+      }
+    ],
+    "description": "roast Ice Cream. chop Lemon. steam Orange. fry Taco. chop Garlic. serve and enjoy!"
+  },
+  {
+    "id": 66,
+    "name": "Avocado Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 17,
+        "name": "Avocado",
+        "qty": 4
+      },
+      {
+        "ingredientId": 38,
+        "name": "Bacon",
+        "qty": 1
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 5
+      },
+      {
+        "ingredientId": 37,
+        "name": "Poultry Leg",
+        "qty": 2
+      },
+      {
+        "ingredientId": 11,
+        "name": "Peach",
+        "qty": 4
+      },
+      {
+        "ingredientId": 19,
+        "name": "Carrot",
+        "qty": 1
+      }
+    ],
+    "description": "boil Avocado. mix well Bacon. boil Garlic. chop Poultry Leg. grill Peach. bake Carrot. serve and enjoy!"
+  },
+  {
+    "id": 67,
+    "name": "Cherry Medley",
+    "ingredients": [
+      {
+        "ingredientId": 10,
+        "name": "Cherry",
+        "qty": 3
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 1
+      },
+      {
+        "ingredientId": 13,
+        "name": "Mango",
+        "qty": 4
+      },
+      {
+        "ingredientId": 15,
+        "name": "Kiwi",
+        "qty": 4
+      }
+    ],
+    "description": "steam Cherry. mix well Stew. steam Mango. grill Kiwi. serve and enjoy!"
+  },
+  {
+    "id": 68,
+    "name": "Corn Delight",
+    "ingredients": [
+      {
+        "ingredientId": 20,
+        "name": "Corn",
+        "qty": 5
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 5
+      },
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 1
+      }
+    ],
+    "description": "grill Corn. mix well Rice Ball. steam Shrimp. serve and enjoy!"
+  },
+  {
+    "id": 69,
+    "name": "Grapes Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 4,
+        "name": "Grapes",
+        "qty": 2
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 1
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 1
+      },
+      {
+        "ingredientId": 37,
+        "name": "Poultry Leg",
+        "qty": 1
+      },
+      {
+        "ingredientId": 42,
+        "name": "Taco",
+        "qty": 4
+      },
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 2
+      }
+    ],
+    "description": "chop Grapes. chop Stew. chop Bowl of Rice. bake Poultry Leg. boil Taco. bake Blueberry. serve and enjoy!"
+  },
+  {
+    "id": 70,
+    "name": "Pancakes Feast",
+    "ingredients": [
+      {
+        "ingredientId": 34,
+        "name": "Pancakes",
+        "qty": 4
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 4
+      },
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 1
+      },
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 2
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 4
+      }
+    ],
+    "description": "grill Pancakes. steam Croissant. steam Bread. bake Broccoli. boil Shrimp. boil Bowl of Rice. serve and enjoy!"
+  },
+  {
+    "id": 71,
+    "name": "Lemon Blend",
+    "ingredients": [
+      {
+        "ingredientId": 7,
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "ingredientId": 21,
+        "name": "Hot Pepper",
+        "qty": 2
+      },
+      {
+        "ingredientId": 36,
+        "name": "Meat",
+        "qty": 5
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 5
+      },
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 5
+      },
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 5
+      }
+    ],
+    "description": "boil Lemon. mix well Hot Pepper. steam Meat. fry Banana. season Hamburger. boil Cheese. serve and enjoy!"
+  },
+  {
+    "id": 72,
+    "name": "Noodles Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 1
+      },
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 3
+      },
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 4
+      },
+      {
+        "ingredientId": 58,
+        "name": "Donut",
+        "qty": 5
+      }
+    ],
+    "description": "boil Noodles. mix well Cheese. fry Bread. season Donut. serve and enjoy!"
+  },
+  {
+    "id": 73,
+    "name": "Mushroom Delight",
+    "ingredients": [
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 5
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 5
+      },
+      {
+        "ingredientId": 28,
+        "name": "Chestnut",
+        "qty": 5
+      }
+    ],
+    "description": "season Mushroom. steam Bowl of Rice. mix well Chestnut. serve and enjoy!"
+  },
+  {
+    "id": 74,
+    "name": "Rice Ball Medley",
+    "ingredients": [
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 3
+      },
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 3
+      },
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 2
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 4
+      },
+      {
+        "ingredientId": 13,
+        "name": "Mango",
+        "qty": 5
+      },
+      {
+        "ingredientId": 6,
+        "name": "Orange",
+        "qty": 3
+      }
+    ],
+    "description": "steam Rice Ball. season Hamburger. roast Sandwich. season Cucumber. grill Mango. roast Orange. serve and enjoy!"
+  },
+  {
+    "id": 75,
+    "name": "Curry Rice Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 50,
+        "name": "Curry Rice",
+        "qty": 5
+      },
+      {
+        "ingredientId": 60,
+        "name": "Chocolate Bar",
+        "qty": 2
+      },
+      {
+        "ingredientId": 36,
+        "name": "Meat",
+        "qty": 3
+      },
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 1
+      }
+    ],
+    "description": "roast Curry Rice. season Chocolate Bar. boil Meat. bake Onion. serve and enjoy!"
+  },
+  {
+    "id": 76,
+    "name": "Sushi Mix",
+    "ingredients": [
+      {
+        "ingredientId": 53,
+        "name": "Sushi",
+        "qty": 3
+      },
+      {
+        "ingredientId": 4,
+        "name": "Grapes",
+        "qty": 4
+      },
+      {
+        "ingredientId": 32,
+        "name": "Pretzel",
+        "qty": 1
+      },
+      {
+        "ingredientId": 56,
+        "name": "Ice Cream",
+        "qty": 4
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 2
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 2
+      }
+    ],
+    "description": "steam Sushi. roast Grapes. roast Pretzel. fry Ice Cream. boil Garlic. bake Croissant. serve and enjoy!"
+  },
+  {
+    "id": 77,
+    "name": "Onion Delight",
+    "ingredients": [
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 3
+      },
+      {
+        "ingredientId": 12,
+        "name": "Pineapple",
+        "qty": 4
+      },
+      {
+        "ingredientId": 40,
+        "name": "Pizza",
+        "qty": 3
+      },
+      {
+        "ingredientId": 58,
+        "name": "Donut",
+        "qty": 2
+      },
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 2
+      }
+    ],
+    "description": "boil Onion. season Pineapple. boil Pizza. boil Donut. bake Bread. serve and enjoy!"
+  },
+  {
+    "id": 78,
+    "name": "Mushroom Extravaganza",
+    "ingredients": [
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 2
+      },
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 1
+      },
+      {
+        "ingredientId": 45,
+        "name": "Salad",
+        "qty": 1
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 3
+      },
+      {
+        "ingredientId": 59,
+        "name": "Cookie",
+        "qty": 5
+      }
+    ],
+    "description": "bake Mushroom. fry Rice Ball. boil Salad. fry Cucumber. fry Cookie. serve and enjoy!"
+  },
+  {
+    "id": 79,
+    "name": "Sandwich Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 2
+      },
+      {
+        "ingredientId": 43,
+        "name": "Burrito",
+        "qty": 1
+      },
+      {
+        "ingredientId": 1,
+        "name": "Apple",
+        "qty": 5
+      },
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 3
+      }
+    ],
+    "description": "boil Sandwich. season Burrito. chop Apple. season Onion. serve and enjoy!"
+  },
+  {
+    "id": 80,
+    "name": "Curry Rice Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 50,
+        "name": "Curry Rice",
+        "qty": 3
+      },
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 5
+      },
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 3
+      },
+      {
+        "ingredientId": 28,
+        "name": "Chestnut",
+        "qty": 1
+      },
+      {
+        "ingredientId": 7,
+        "name": "Lemon",
+        "qty": 3
+      }
+    ],
+    "description": "fry Curry Rice. boil Blueberry. season Onion. chop Chestnut. bake Lemon. serve and enjoy!"
+  },
+  {
+    "id": 81,
+    "name": "Bowl of Rice Feast",
+    "ingredients": [
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 3
+      },
+      {
+        "ingredientId": 43,
+        "name": "Burrito",
+        "qty": 3
+      },
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 4
+      },
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 5
+      },
+      {
+        "ingredientId": 6,
+        "name": "Orange",
+        "qty": 4
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 3
+      }
+    ],
+    "description": "steam Bowl of Rice. boil Burrito. season Hamburger. grill Broccoli. bake Orange. bake Cake. serve and enjoy!"
+  },
+  {
+    "id": 82,
+    "name": "Blueberry Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 2
+      },
+      {
+        "ingredientId": 50,
+        "name": "Curry Rice",
+        "qty": 3
+      },
+      {
+        "ingredientId": 5,
+        "name": "Watermelon",
+        "qty": 5
+      }
+    ],
+    "description": "fry Blueberry. steam Curry Rice. grill Watermelon. serve and enjoy!"
+  },
+  {
+    "id": 83,
+    "name": "Tomato Feast",
+    "ingredients": [
+      {
+        "ingredientId": 16,
+        "name": "Tomato",
+        "qty": 1
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 5
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 3
+      },
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 4
+      },
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 2
+      },
+      {
+        "ingredientId": 42,
+        "name": "Taco",
+        "qty": 3
+      }
+    ],
+    "description": "steam Tomato. mix well Baguette. steam Banana. fry Cheese. steam Eggplant. boil Taco. serve and enjoy!"
+  },
+  {
+    "id": 84,
+    "name": "Coconut Special",
+    "ingredients": [
+      {
+        "ingredientId": 14,
+        "name": "Coconut",
+        "qty": 1
+      },
+      {
+        "ingredientId": 38,
+        "name": "Bacon",
+        "qty": 1
+      },
+      {
+        "ingredientId": 20,
+        "name": "Corn",
+        "qty": 4
+      },
+      {
+        "ingredientId": 45,
+        "name": "Salad",
+        "qty": 2
+      },
+      {
+        "ingredientId": 52,
+        "name": "Spaghetti",
+        "qty": 3
+      },
+      {
+        "ingredientId": 55,
+        "name": "Oyster",
+        "qty": 1
+      }
+    ],
+    "description": "chop Coconut. season Bacon. boil Corn. steam Salad. roast Spaghetti. fry Oyster. serve and enjoy!"
+  },
+  {
+    "id": 85,
+    "name": "Mushroom Treat",
+    "ingredients": [
+      {
+        "ingredientId": 26,
+        "name": "Mushroom",
+        "qty": 1
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 5
+      },
+      {
+        "ingredientId": 1,
+        "name": "Apple",
+        "qty": 1
+      }
+    ],
+    "description": "mix well Mushroom. season Garlic. bake Apple. serve and enjoy!"
+  },
+  {
+    "id": 86,
+    "name": "Cherry Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 10,
+        "name": "Cherry",
+        "qty": 5
+      },
+      {
+        "ingredientId": 48,
+        "name": "Bowl of Rice",
+        "qty": 5
+      },
+      {
+        "ingredientId": 17,
+        "name": "Avocado",
+        "qty": 1
+      }
+    ],
+    "description": "season Cherry. season Bowl of Rice. fry Avocado. serve and enjoy!"
+  },
+  {
+    "id": 87,
+    "name": "Green Apple Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 2,
+        "name": "Green Apple",
+        "qty": 5
+      },
+      {
+        "ingredientId": 28,
+        "name": "Chestnut",
+        "qty": 5
+      },
+      {
+        "ingredientId": 19,
+        "name": "Carrot",
+        "qty": 3
+      },
+      {
+        "ingredientId": 6,
+        "name": "Orange",
+        "qty": 5
+      },
+      {
+        "ingredientId": 35,
+        "name": "Cheese",
+        "qty": 1
+      }
+    ],
+    "description": "boil Green Apple. mix well Chestnut. fry Carrot. chop Orange. boil Cheese. serve and enjoy!"
+  },
+  {
+    "id": 88,
+    "name": "Rice Ball Treat",
+    "ingredients": [
+      {
+        "ingredientId": 49,
+        "name": "Rice Ball",
+        "qty": 2
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 4
+      },
+      {
+        "ingredientId": 4,
+        "name": "Grapes",
+        "qty": 5
+      },
+      {
+        "ingredientId": 25,
+        "name": "Onion",
+        "qty": 5
+      },
+      {
+        "ingredientId": 11,
+        "name": "Peach",
+        "qty": 4
+      },
+      {
+        "ingredientId": 38,
+        "name": "Bacon",
+        "qty": 5
+      }
+    ],
+    "description": "mix well Rice Ball. roast Croissant. season Grapes. roast Onion. roast Peach. grill Bacon. serve and enjoy!"
+  },
+  {
+    "id": 89,
+    "name": "Eggplant Treat",
+    "ingredients": [
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 4
+      },
+      {
+        "ingredientId": 30,
+        "name": "Croissant",
+        "qty": 2
+      },
+      {
+        "ingredientId": 43,
+        "name": "Burrito",
+        "qty": 5
+      },
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 1
+      },
+      {
+        "ingredientId": 29,
+        "name": "Bread",
+        "qty": 2
+      },
+      {
+        "ingredientId": 9,
+        "name": "Blueberry",
+        "qty": 4
+      }
+    ],
+    "description": "boil Eggplant. grill Croissant. boil Burrito. mix well Hamburger. fry Bread. season Blueberry. serve and enjoy!"
+  },
+  {
+    "id": 90,
+    "name": "Oyster Blend",
+    "ingredients": [
+      {
+        "ingredientId": 55,
+        "name": "Oyster",
+        "qty": 1
+      },
+      {
+        "ingredientId": 37,
+        "name": "Poultry Leg",
+        "qty": 5
+      },
+      {
+        "ingredientId": 40,
+        "name": "Pizza",
+        "qty": 4
+      },
+      {
+        "ingredientId": 27,
+        "name": "Peanuts",
+        "qty": 3
+      }
+    ],
+    "description": "fry Oyster. season Poultry Leg. chop Pizza. roast Peanuts. serve and enjoy!"
+  },
+  {
+    "id": 91,
+    "name": "Banana Feast",
+    "ingredients": [
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 2
+      },
+      {
+        "ingredientId": 43,
+        "name": "Burrito",
+        "qty": 3
+      },
+      {
+        "ingredientId": 13,
+        "name": "Mango",
+        "qty": 1
+      },
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 1
+      },
+      {
+        "ingredientId": 11,
+        "name": "Peach",
+        "qty": 1
+      },
+      {
+        "ingredientId": 20,
+        "name": "Corn",
+        "qty": 2
+      }
+    ],
+    "description": "roast Banana. fry Burrito. roast Mango. roast Noodles. mix well Peach. steam Corn. serve and enjoy!"
+  },
+  {
+    "id": 92,
+    "name": "Bacon Fusion",
+    "ingredients": [
+      {
+        "ingredientId": 38,
+        "name": "Bacon",
+        "qty": 2
+      },
+      {
+        "ingredientId": 15,
+        "name": "Kiwi",
+        "qty": 3
+      },
+      {
+        "ingredientId": 18,
+        "name": "Eggplant",
+        "qty": 5
+      },
+      {
+        "ingredientId": 58,
+        "name": "Donut",
+        "qty": 1
+      },
+      {
+        "ingredientId": 21,
+        "name": "Hot Pepper",
+        "qty": 1
+      }
+    ],
+    "description": "fry Bacon. roast Kiwi. steam Eggplant. roast Donut. boil Hot Pepper. serve and enjoy!"
+  },
+  {
+    "id": 93,
+    "name": "Bacon Feast",
+    "ingredients": [
+      {
+        "ingredientId": 38,
+        "name": "Bacon",
+        "qty": 4
+      },
+      {
+        "ingredientId": 55,
+        "name": "Oyster",
+        "qty": 4
+      },
+      {
+        "ingredientId": 39,
+        "name": "Hamburger",
+        "qty": 1
+      },
+      {
+        "ingredientId": 16,
+        "name": "Tomato",
+        "qty": 3
+      },
+      {
+        "ingredientId": 45,
+        "name": "Salad",
+        "qty": 5
+      }
+    ],
+    "description": "fry Bacon. grill Oyster. steam Hamburger. season Tomato. bake Salad. serve and enjoy!"
+  },
+  {
+    "id": 94,
+    "name": "Lemon Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 7,
+        "name": "Lemon",
+        "qty": 5
+      },
+      {
+        "ingredientId": 8,
+        "name": "Strawberry",
+        "qty": 2
+      },
+      {
+        "ingredientId": 52,
+        "name": "Spaghetti",
+        "qty": 5
+      },
+      {
+        "ingredientId": 59,
+        "name": "Cookie",
+        "qty": 4
+      },
+      {
+        "ingredientId": 17,
+        "name": "Avocado",
+        "qty": 2
+      }
+    ],
+    "description": "steam Lemon. bake Strawberry. chop Spaghetti. fry Cookie. fry Avocado. serve and enjoy!"
+  },
+  {
+    "id": 95,
+    "name": "Poultry Leg Feast",
+    "ingredients": [
+      {
+        "ingredientId": 37,
+        "name": "Poultry Leg",
+        "qty": 5
+      },
+      {
+        "ingredientId": 51,
+        "name": "Noodles",
+        "qty": 2
+      },
+      {
+        "ingredientId": 22,
+        "name": "Cucumber",
+        "qty": 2
+      },
+      {
+        "ingredientId": 5,
+        "name": "Watermelon",
+        "qty": 1
+      },
+      {
+        "ingredientId": 33,
+        "name": "Bagel",
+        "qty": 2
+      },
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 4
+      }
+    ],
+    "description": "mix well Poultry Leg. bake Noodles. fry Cucumber. chop Watermelon. grill Bagel. chop Sandwich. serve and enjoy!"
+  },
+  {
+    "id": 96,
+    "name": "Sandwich Surprise",
+    "ingredients": [
+      {
+        "ingredientId": 44,
+        "name": "Sandwich",
+        "qty": 1
+      },
+      {
+        "ingredientId": 3,
+        "name": "Banana",
+        "qty": 2
+      },
+      {
+        "ingredientId": 52,
+        "name": "Spaghetti",
+        "qty": 4
+      },
+      {
+        "ingredientId": 58,
+        "name": "Donut",
+        "qty": 4
+      }
+    ],
+    "description": "season Sandwich. chop Banana. season Spaghetti. fry Donut. serve and enjoy!"
+  },
+  {
+    "id": 97,
+    "name": "Peach Medley",
+    "ingredients": [
+      {
+        "ingredientId": 11,
+        "name": "Peach",
+        "qty": 1
+      },
+      {
+        "ingredientId": 52,
+        "name": "Spaghetti",
+        "qty": 4
+      },
+      {
+        "ingredientId": 5,
+        "name": "Watermelon",
+        "qty": 1
+      }
+    ],
+    "description": "boil Peach. chop Spaghetti. mix well Watermelon. serve and enjoy!"
+  },
+  {
+    "id": 98,
+    "name": "Avocado Special",
+    "ingredients": [
+      {
+        "ingredientId": 17,
+        "name": "Avocado",
+        "qty": 5
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 5
+      },
+      {
+        "ingredientId": 16,
+        "name": "Tomato",
+        "qty": 1
+      },
+      {
+        "ingredientId": 36,
+        "name": "Meat",
+        "qty": 1
+      }
+    ],
+    "description": "season Avocado. chop Stew. mix well Tomato. grill Meat. serve and enjoy!"
+  },
+  {
+    "id": 99,
+    "name": "Pineapple Special",
+    "ingredients": [
+      {
+        "ingredientId": 12,
+        "name": "Pineapple",
+        "qty": 3
+      },
+      {
+        "ingredientId": 31,
+        "name": "Baguette",
+        "qty": 4
+      },
+      {
+        "ingredientId": 34,
+        "name": "Pancakes",
+        "qty": 5
+      },
+      {
+        "ingredientId": 56,
+        "name": "Ice Cream",
+        "qty": 1
+      }
+    ],
+    "description": "mix well Pineapple. boil Baguette. mix well Pancakes. roast Ice Cream. serve and enjoy!"
+  },
+  {
+    "id": 100,
+    "name": "Mango Special",
+    "ingredients": [
+      {
+        "ingredientId": 13,
+        "name": "Mango",
+        "qty": 2
+      },
+      {
+        "ingredientId": 23,
+        "name": "Broccoli",
+        "qty": 4
+      },
+      {
+        "ingredientId": 47,
+        "name": "Stew",
+        "qty": 2
+      },
+      {
+        "ingredientId": 24,
+        "name": "Garlic",
+        "qty": 1
+      },
+      {
+        "ingredientId": 57,
+        "name": "Cake",
+        "qty": 5
+      },
+      {
+        "ingredientId": 54,
+        "name": "Shrimp",
+        "qty": 1
+      }
+    ],
+    "description": "roast Mango. bake Broccoli. grill Stew. roast Garlic. grill Cake. roast Shrimp. serve and enjoy!"
+  }
+]

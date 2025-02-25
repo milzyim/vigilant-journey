@@ -1,0 +1,34 @@
+/* src/App.css */
+.app-container {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 60% 40%;
+    height: 100vh;
+    gap: 10px;
+  }
+  
+  .map-section {
+    grid-column: 1 / 2;
+    grid-row: 1 / 3;
+    background-color: lightgray;
+  }
+  
+  .right-section {
+    display: flex;
+    flex-direction: column;
+    /*grid-template-rows: 50% 50%;
+    grid-column: 2 / 3;*/
+  }
+  
+  .stats-section {
+    flex: 1; /* Allow this section to grow */
+    padding: 20px;
+    background-color: lightblue;
+  }
+  
+  .controls-section {
+    flex: 1; /* Allow this section to grow */
+    padding: 20px;
+    background-color: lightcoral;
+  }
+  

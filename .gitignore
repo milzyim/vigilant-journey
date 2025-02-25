@@ -1,0 +1,6 @@
+node_modules
+backend/error.log
+backend/combined.log
+combined.log
+error.log
+frontend/README.md
